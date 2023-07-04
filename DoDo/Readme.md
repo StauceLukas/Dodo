@@ -14,7 +14,7 @@ Technology stack: .NET MAUI, SqlLite.
 Most important tasks:
 - Learn basic foundation about .NET MAUI - how it is working, UI creation and manipulation, working with different platforms.
 - Create initial design using FIGMA tool: layouts for desktop and mobile versions.
-- Create system design diagram: how objects of this app will 
+- Create system design diagram.
 
 #### Phase 1:
 - Create basic application layout.
